@@ -1,1 +1,1 @@
-# 3-line-calculater
+# 3-line-calculator
